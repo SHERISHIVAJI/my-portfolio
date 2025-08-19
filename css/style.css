@@ -736,7 +736,7 @@ h3.my.profession {
 }
 
 @media (max-width:900px) {
-    .home .home-info, .portfolio .portfolio-item {
+    .home .home-info, .projects .projects-item {
         flex: 0 0 100%;
         max-width: 100%;
     }
